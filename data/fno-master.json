@@ -1,0 +1,1028 @@
+{
+  "success": true,
+  "count": 208,
+  "lastUpdated": "2026-07-21T00:00:00.000Z",
+  "description": "F&O and EQ Master stocks list for scanning (tokens corrected 2026-07-21 against live AngelOne scrip master)",
+  "stocks": [
+    {
+      "name": "Reliance Industries",
+      "symbol": "RELIANCE",
+      "token": "2885"
+    },
+    {
+      "name": "HDFC Bank",
+      "symbol": "HDFCBANK",
+      "token": "1333"
+    },
+    {
+      "name": "Bharti Airtel",
+      "symbol": "BHARTIARTL",
+      "token": "10604"
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "symbol": "TCS",
+      "token": "11536"
+    },
+    {
+      "name": "ICICI Bank",
+      "symbol": "ICICIBANK",
+      "token": "4963"
+    },
+    {
+      "name": "State Bank of India",
+      "symbol": "SBIN",
+      "token": "3045"
+    },
+    {
+      "name": "Infosys",
+      "symbol": "INFY",
+      "token": "1594"
+    },
+    {
+      "name": "Bajaj Finance",
+      "symbol": "BAJFINANCE",
+      "token": "317"
+    },
+    {
+      "name": "Hindustan Unilever",
+      "symbol": "HINDUNILVR",
+      "token": "1394"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "symbol": "LT",
+      "token": "11483"
+    },
+    {
+      "name": "LIC of India",
+      "symbol": "LICI",
+      "token": "9480"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "symbol": "MARUTI",
+      "token": "10999"
+    },
+    {
+      "name": "Mahindra & Mahindra",
+      "symbol": "M&M",
+      "token": "2031"
+    },
+    {
+      "name": "HCL Technologies",
+      "symbol": "HCLTECH",
+      "token": "7229"
+    },
+    {
+      "name": "ITC",
+      "symbol": "ITC",
+      "token": "1660"
+    },
+    {
+      "name": "Kotak Bank",
+      "symbol": "KOTAKBANK",
+      "token": "1922"
+    },
+    {
+      "name": "Sun Pharmaceutical",
+      "symbol": "SUNPHARMA",
+      "token": "3351"
+    },
+    {
+      "name": "Axis Bank",
+      "symbol": "AXISBANK",
+      "token": "5900"
+    },
+    {
+      "name": "Titan",
+      "symbol": "TITAN",
+      "token": "3506"
+    },
+    {
+      "name": "UltraTech Cement",
+      "symbol": "ULTRACEMCO",
+      "token": "11532"
+    },
+    {
+      "name": "NTPC",
+      "symbol": "NTPC",
+      "token": "11630"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "symbol": "BAJAJFINSV",
+      "token": "16675"
+    },
+    {
+      "name": "Adani Ports & SEZ",
+      "symbol": "ADANIPORTS",
+      "token": "15083"
+    },
+    {
+      "name": "Bharat Electronics",
+      "symbol": "BEL",
+      "token": "383"
+    },
+    {
+      "name": "Hindustan Aeronautics",
+      "symbol": "HAL",
+      "token": "2303"
+    },
+    {
+      "name": "Oil & Natural Gas Corporation",
+      "symbol": "ONGC",
+      "token": "2475"
+    },
+    {
+      "name": "JSW Steel",
+      "symbol": "JSWSTEEL",
+      "token": "11723"
+    },
+    {
+      "name": "Wipro",
+      "symbol": "WIPRO",
+      "token": "3787"
+    },
+    {
+      "name": "Bajaj Auto",
+      "symbol": "BAJAJ-AUTO",
+      "token": "16669"
+    },
+    {
+      "name": "Asian Paints",
+      "symbol": "ASIANPAINT",
+      "token": "236"
+    },
+    {
+      "name": "Coal India",
+      "symbol": "COALINDIA",
+      "token": "20374"
+    },
+    {
+      "name": "Adani Enterprises",
+      "symbol": "ADANIENT",
+      "token": "25"
+    },
+    {
+      "name": "Nestle",
+      "symbol": "NESTLEIND",
+      "token": "17963"
+    },
+    {
+      "name": "Hindustan Zinc",
+      "symbol": "HINDZINC",
+      "token": "1424"
+    },
+    {
+      "name": "Avenue Supermarts DMart",
+      "symbol": "DMART",
+      "token": "19913"
+    },
+    {
+      "name": "Power Grid Corporation of India",
+      "symbol": "POWERGRID",
+      "token": "14977"
+    },
+    {
+      "name": "Vedanta",
+      "symbol": "VEDL",
+      "token": "3063"
+    },
+    {
+      "name": "Tata Steel",
+      "symbol": "TATASTEEL",
+      "token": "3499"
+    },
+    {
+      "name": "Indian Oil Corporation",
+      "symbol": "IOC",
+      "token": "1624"
+    },
+    {
+      "name": "SBI Life Insurance",
+      "symbol": "SBILIFE",
+      "token": "21808"
+    },
+    {
+      "name": "Eicher Motors",
+      "symbol": "EICHERMOT",
+      "token": "910"
+    },
+    {
+      "name": "Hindalco Industries",
+      "symbol": "HINDALCO",
+      "token": "1363"
+    },
+    {
+      "name": "Grasim Industries",
+      "symbol": "GRASIM",
+      "token": "1232"
+    },
+    {
+      "name": "Interglobe Aviation",
+      "symbol": "INDIGO",
+      "token": "11195"
+    },
+    {
+      "name": "Shriram Finance",
+      "symbol": "SHRIRAMFIN",
+      "token": "4306"
+    },
+    {
+      "name": "Jio Financial Services",
+      "symbol": "JIOFIN",
+      "token": "18143"
+    },
+    {
+      "name": "TVS Motors",
+      "symbol": "TVSMOTOR",
+      "token": "8479"
+    },
+    {
+      "name": "Divis Laboratories",
+      "symbol": "DIVISLAB",
+      "token": "10940"
+    },
+    {
+      "name": "DLF",
+      "symbol": "DLF",
+      "token": "14732"
+    },
+    {
+      "name": "Varun Beverages",
+      "symbol": "VBL",
+      "token": "18921"
+    },
+    {
+      "name": "HDFC Life Insurance",
+      "symbol": "HDFCLIFE",
+      "token": "467"
+    },
+    {
+      "name": "Adani Green Energy",
+      "symbol": "ADANIGREEN",
+      "token": "3563"
+    },
+    {
+      "name": "IRFC",
+      "symbol": "IRFC",
+      "token": "2029"
+    },
+    {
+      "name": "Bank of Baroda",
+      "symbol": "BANKBARODA",
+      "token": "4668"
+    },
+    {
+      "name": "Muthoot Finance",
+      "symbol": "MUTHOOTFIN",
+      "token": "23650"
+    },
+    {
+      "name": "Tech Mahindra",
+      "symbol": "TECHM",
+      "token": "13538"
+    },
+    {
+      "name": "Bharat Petroleum",
+      "symbol": "BPCL",
+      "token": "526"
+    },
+    {
+      "name": "Pidilite Industries",
+      "symbol": "PIDILITIND",
+      "token": "2664"
+    },
+    {
+      "name": "Cholamandalam Investment",
+      "symbol": "CHOLAFIN",
+      "token": "685"
+    },
+    {
+      "name": "Britannia Industries",
+      "symbol": "BRITANNIA",
+      "token": "547"
+    },
+    {
+      "name": "Trent",
+      "symbol": "TRENT",
+      "token": "1964"
+    },
+    {
+      "name": "Punjab National Bank",
+      "symbol": "PNB",
+      "token": "10666"
+    },
+    {
+      "name": "Canara Bank",
+      "symbol": "CANBK",
+      "token": "10794"
+    },
+    {
+      "name": "Torrent Pharmaceuticals",
+      "symbol": "TORNTPHARM",
+      "token": "3518"
+    },
+    {
+      "name": "Ambuja Cements",
+      "symbol": "AMBUJACEM",
+      "token": "1270"
+    },
+    {
+      "name": "Godrej Consumer Products",
+      "symbol": "GODREJCP",
+      "token": "10099"
+    },
+    {
+      "name": "Bajaj Holdings & Investments",
+      "symbol": "BAJAJHLDNG",
+      "token": "305"
+    },
+    {
+      "name": "Samvardhana Motherson International",
+      "symbol": "MOTHERSON",
+      "token": "4204"
+    },
+    {
+      "name": "Vodafone Idea",
+      "symbol": "IDEA",
+      "token": "14366"
+    },
+    {
+      "name": "Union Bank of India",
+      "symbol": "UNIONBANK",
+      "token": "10753"
+    },
+    {
+      "name": "Solar Industries",
+      "symbol": "SOLARINDS",
+      "token": "13332"
+    },
+    {
+      "name": "Power Finance Corporation",
+      "symbol": "PFC",
+      "token": "14299"
+    },
+    {
+      "name": "Tata Power",
+      "symbol": "TATAPOWER",
+      "token": "3426"
+    },
+    {
+      "name": "Adani Energy Solutions",
+      "symbol": "ADANIENSOL",
+      "token": "10217"
+    },
+    {
+      "name": "Tata Consumer Products",
+      "symbol": "TATACONSUM",
+      "token": "3432"
+    },
+    {
+      "name": "Cipla",
+      "symbol": "CIPLA",
+      "token": "694"
+    },
+    {
+      "name": "Hero Motocorp",
+      "symbol": "HEROMOTOCO",
+      "token": "1348"
+    },
+    {
+      "name": "Polycab",
+      "symbol": "POLYCAB",
+      "token": "9590"
+    },
+    {
+      "name": "Cummins",
+      "symbol": "CUMMINSIND",
+      "token": "1901"
+    },
+    {
+      "name": "Bosch",
+      "symbol": "BOSCHLTD",
+      "token": "2181"
+    },
+    {
+      "name": "Indus Towers",
+      "symbol": "INDUSTOWER",
+      "token": "29135"
+    },
+    {
+      "name": "Indian Bank",
+      "symbol": "INDIANB",
+      "token": "14309"
+    },
+    {
+      "name": "HDFC AMC",
+      "symbol": "HDFCAMC",
+      "token": "4244"
+    },
+    {
+      "name": "BSE",
+      "symbol": "BSE",
+      "token": "19585"
+    },
+    {
+      "name": "Lodha Developers",
+      "symbol": "LODHA",
+      "token": "3220"
+    },
+    {
+      "name": "Ashok Leyland",
+      "symbol": "ASHOKLEY",
+      "token": "212"
+    },
+    {
+      "name": "GMR Airports",
+      "symbol": "GMRAIRPORT",
+      "token": "13528"
+    },
+    {
+      "name": "GAIL",
+      "symbol": "GAIL",
+      "token": "4717"
+    },
+    {
+      "name": "Siemens",
+      "symbol": "SIEMENS",
+      "token": "3150"
+    },
+    {
+      "name": "ABB",
+      "symbol": "ABB",
+      "token": "13"
+    },
+    {
+      "name": "Apollo Hospitals",
+      "symbol": "APOLLOHOSP",
+      "token": "157"
+    },
+    {
+      "name": "Jindal Steel",
+      "symbol": "JINDALSTEL",
+      "token": "6733"
+    },
+    {
+      "name": "Persistent Systems",
+      "symbol": "PERSISTENT",
+      "token": "18365"
+    },
+    {
+      "name": "Dr Reddys Laboratories",
+      "symbol": "DRREDDY",
+      "token": "881"
+    },
+    {
+      "name": "Indian Hotels Company",
+      "symbol": "INDHOTEL",
+      "token": "1512"
+    },
+    {
+      "name": "Max Healthcare Institute",
+      "symbol": "MAXHEALTH",
+      "token": "22377"
+    },
+    {
+      "name": "Lupin",
+      "symbol": "LUPIN",
+      "token": "10440"
+    },
+    {
+      "name": "Mazagon Dock Shipbuilders",
+      "symbol": "MAZDOCK",
+      "token": "509"
+    },
+    {
+      "name": "ICICI Prudential Life Insurance",
+      "symbol": "ICICIPRULI",
+      "token": "18652"
+    },
+    {
+      "name": "Marico",
+      "symbol": "MARICO",
+      "token": "4067"
+    },
+    {
+      "name": "United Spirits",
+      "symbol": "UNITDSPR",
+      "token": "10447"
+    },
+    {
+      "name": "REC",
+      "symbol": "RECLTD",
+      "token": "15355"
+    },
+    {
+      "name": "Swiggy",
+      "symbol": "SWIGGY",
+      "token": "27066"
+    },
+    {
+      "name": "Shree Cement",
+      "symbol": "SHREECEM",
+      "token": "3103"
+    },
+    {
+      "name": "CG Power & Industrial Solutions",
+      "symbol": "CGPOWER",
+      "token": "760"
+    },
+    {
+      "name": "Hindustan Petroleum",
+      "symbol": "HINDPETRO",
+      "token": "1406"
+    },
+    {
+      "name": "ICICI Lombard General Insurance",
+      "symbol": "ICICIGI",
+      "token": "21770"
+    },
+    {
+      "name": "Bharat Heavy Electricals",
+      "symbol": "BHEL",
+      "token": "438"
+    },
+    {
+      "name": "Aditya Birla Capital",
+      "symbol": "ABCAPITAL",
+      "token": "21614"
+    },
+    {
+      "name": "Mankind Pharma",
+      "symbol": "MANKIND",
+      "token": "15380"
+    },
+    {
+      "name": "Havells",
+      "symbol": "HAVELLS",
+      "token": "9819"
+    },
+    {
+      "name": "Dabur India",
+      "symbol": "DABUR",
+      "token": "772"
+    },
+    {
+      "name": "Zydus Life Science",
+      "symbol": "ZYDUSLIFE",
+      "token": "7929"
+    },
+    {
+      "name": "SRF",
+      "symbol": "SRF",
+      "token": "3273"
+    },
+    {
+      "name": "JSW Energy",
+      "symbol": "JSWENERGY",
+      "token": "17869"
+    },
+    {
+      "name": "Info Edge",
+      "symbol": "NAUKRI",
+      "token": "13751"
+    },
+    {
+      "name": "One 97 Communications",
+      "symbol": "PAYTM",
+      "token": "6705"
+    },
+    {
+      "name": "SBI Cards",
+      "symbol": "SBICARD",
+      "token": "17971"
+    },
+    {
+      "name": "NHPC",
+      "symbol": "NHPC",
+      "token": "17400"
+    },
+    {
+      "name": "Hitachi Energy",
+      "symbol": "POWERINDIA",
+      "token": "18457"
+    },
+    {
+      "name": "PB FinTech",
+      "symbol": "POLICYBZR",
+      "token": "6656"
+    },
+    {
+      "name": "Waaree Energies",
+      "symbol": "WAAREEENER",
+      "token": "25907"
+    },
+    {
+      "name": "AU Small Finance Bank",
+      "symbol": "AUBANK",
+      "token": "21238"
+    },
+    {
+      "name": "IDFC First Bank",
+      "symbol": "IDFCFIRSTB",
+      "token": "11184"
+    },
+    {
+      "name": "Nykaa",
+      "symbol": "NYKAA",
+      "token": "6545"
+    },
+    {
+      "name": "UNO Minda",
+      "symbol": "UNOMINDA",
+      "token": "14154"
+    },
+    {
+      "name": "Dixon Technologies",
+      "symbol": "DIXON",
+      "token": "21690"
+    },
+    {
+      "name": "NMDC",
+      "symbol": "NMDC",
+      "token": "15332"
+    },
+    {
+      "name": "Rail Vikas Nigam",
+      "symbol": "RVNL",
+      "token": "9552"
+    },
+    {
+      "name": "Yes Bank",
+      "symbol": "YESBANK",
+      "token": "11915"
+    },
+    {
+      "name": "Aurobindo Pharma",
+      "symbol": "AUROPHARMA",
+      "token": "275"
+    },
+    {
+      "name": "Suzlon Energy",
+      "symbol": "SUZLON",
+      "token": "12018"
+    },
+    {
+      "name": "Bharat Forge",
+      "symbol": "BHARATFORG",
+      "token": "422"
+    },
+    {
+      "name": "Alkem Laboratories",
+      "symbol": "ALKEM",
+      "token": "11703"
+    },
+    {
+      "name": "Fortis Healthcare",
+      "symbol": "FORTIS",
+      "token": "14592"
+    },
+    {
+      "name": "Indusind Bank",
+      "symbol": "INDUSINDBK",
+      "token": "5258"
+    },
+    {
+      "name": "Torrent Power",
+      "symbol": "TORNTPOWER",
+      "token": "13786"
+    },
+    {
+      "name": "Prestige Estates Projects",
+      "symbol": "PRESTIGE",
+      "token": "20302"
+    },
+    {
+      "name": "Phoenix Mills",
+      "symbol": "PHOENIXLTD",
+      "token": "14552"
+    },
+    {
+      "name": "UPL",
+      "symbol": "UPL",
+      "token": "11287"
+    },
+    {
+      "name": "Bank of India",
+      "symbol": "BANKINDIA",
+      "token": "4745"
+    },
+    {
+      "name": "Oil India",
+      "symbol": "OIL",
+      "token": "17438"
+    },
+    {
+      "name": "Oracle Financial Services Software",
+      "symbol": "OFSS",
+      "token": "10738"
+    },
+    {
+      "name": "Godrej Properties",
+      "symbol": "GODREJPROP",
+      "token": "17875"
+    },
+    {
+      "name": "Federal Bank",
+      "symbol": "FEDERALBNK",
+      "token": "1023"
+    },
+    {
+      "name": "Oberoi Realty",
+      "symbol": "OBEROIRLTY",
+      "token": "20242"
+    },
+    {
+      "name": "Patanjali Foods",
+      "symbol": "PATANJALI",
+      "token": "17029"
+    },
+    {
+      "name": "NALCO",
+      "symbol": "NATIONALUM",
+      "token": "6364"
+    },
+    {
+      "name": "Steel Authority of India",
+      "symbol": "SAIL",
+      "token": "2963"
+    },
+    {
+      "name": "Laurus Labs",
+      "symbol": "LAURUSLABS",
+      "token": "19234"
+    },
+    {
+      "name": "Glenmark Pharmaceuticals",
+      "symbol": "GLENMARK",
+      "token": "7406"
+    },
+    {
+      "name": "Max Financial Services",
+      "symbol": "MFSL",
+      "token": "2142"
+    },
+    {
+      "name": "MCX",
+      "symbol": "MCX",
+      "token": "31181"
+    },
+    {
+      "name": "Bharat Dynamics",
+      "symbol": "BDL",
+      "token": "2144"
+    },
+    {
+      "name": "Colgate Palmolive",
+      "symbol": "COLPAL",
+      "token": "15141"
+    },
+    {
+      "name": "Coforge",
+      "symbol": "COFORGE",
+      "token": "11543"
+    },
+    {
+      "name": "Mphasis",
+      "symbol": "MPHASIS",
+      "token": "4503"
+    },
+    {
+      "name": "APL Apollo Tubes",
+      "symbol": "APLAPOLLO",
+      "token": "25780"
+    },
+    {
+      "name": "Kalyan Jewellers",
+      "symbol": "KALYANKJIL",
+      "token": "2955"
+    },
+    {
+      "name": "IRCTC",
+      "symbol": "IRCTC",
+      "token": "13611"
+    },
+    {
+      "name": "Biocon",
+      "symbol": "BIOCON",
+      "token": "11373"
+    },
+    {
+      "name": "PI Industries",
+      "symbol": "PIIND",
+      "token": "24184"
+    },
+    {
+      "name": "Voltas",
+      "symbol": "VOLTAS",
+      "token": "3718"
+    },
+    {
+      "name": "Tube Investment",
+      "symbol": "TIINDIA",
+      "token": "312"
+    },
+    {
+      "name": "360 One WAM",
+      "symbol": "360ONE",
+      "token": "13061"
+    },
+    {
+      "name": "Supreme Industries",
+      "symbol": "SUPREMEIND",
+      "token": "3363"
+    },
+    {
+      "name": "HUDCO",
+      "symbol": "HUDCO",
+      "token": "20825"
+    },
+    {
+      "name": "Petronet LNG",
+      "symbol": "PETRONET",
+      "token": "11351"
+    },
+    {
+      "name": "KEI Industries",
+      "symbol": "KEI",
+      "token": "13310"
+    },
+    {
+      "name": "Astral",
+      "symbol": "ASTRAL",
+      "token": "14418"
+    },
+    {
+      "name": "IREDA",
+      "symbol": "IREDA",
+      "token": "20261"
+    },
+    {
+      "name": "Container Corporation of India",
+      "symbol": "CONCOR",
+      "token": "4749"
+    },
+    {
+      "name": "Page Industries",
+      "symbol": "PAGEIND",
+      "token": "14413"
+    },
+    {
+      "name": "Dalmia Bharat",
+      "symbol": "DALBHARAT",
+      "token": "8075"
+    },
+    {
+      "name": "Blue Star",
+      "symbol": "BLUESTARCO",
+      "token": "8311"
+    },
+    {
+      "name": "Tata Elxsi",
+      "symbol": "TATAELXSI",
+      "token": "3411"
+    },
+    {
+      "name": "Jubilant FoodWorks",
+      "symbol": "JUBLFOOD",
+      "token": "18096"
+    },
+    {
+      "name": "Premier Energies",
+      "symbol": "PREMIERENE",
+      "token": "25049"
+    },
+    {
+      "name": "KPIT Technologies",
+      "symbol": "KPITTECH",
+      "token": "9683"
+    },
+    {
+      "name": "Delhivery",
+      "symbol": "DELHIVERY",
+      "token": "9599"
+    },
+    {
+      "name": "NBCC",
+      "symbol": "NBCC",
+      "token": "31415"
+    },
+    {
+      "name": "CDSL",
+      "symbol": "CDSL",
+      "token": "21174"
+    },
+    {
+      "name": "Exide Industries",
+      "symbol": "EXIDEIND",
+      "token": "676"
+    },
+    {
+      "name": "LIC Housing Finance",
+      "symbol": "LICHSGFIN",
+      "token": "1997"
+    },
+    {
+      "name": "Sona BLW Precision Forgings",
+      "symbol": "SONACOMS",
+      "token": "4684"
+    },
+    {
+      "name": "IIFL Finance",
+      "symbol": "IIFL",
+      "token": "11809"
+    },
+    {
+      "name": "Tata Technologies",
+      "symbol": "TATATECH",
+      "token": "20293"
+    },
+    {
+      "name": "Nuvama Wealth Management",
+      "symbol": "NUVAMA",
+      "token": "18721"
+    },
+    {
+      "name": "Manappuram Finance",
+      "symbol": "MANAPPURAM",
+      "token": "19061"
+    },
+    {
+      "name": "PNB Housing Finance",
+      "symbol": "PNBHOUSING",
+      "token": "18908"
+    },
+    {
+      "name": "Syngene International",
+      "symbol": "SYNGENE",
+      "token": "10243"
+    },
+    {
+      "name": "Kaynes Technology India",
+      "symbol": "KAYNES",
+      "token": "12092"
+    },
+    {
+      "name": "Bandhan Bank",
+      "symbol": "BANDHANBNK",
+      "token": "2263"
+    },
+    {
+      "name": "Piramal Pharma",
+      "symbol": "PPLPHARMA",
+      "token": "11571"
+    },
+    {
+      "name": "Amber Enterprises",
+      "symbol": "AMBER",
+      "token": "1185"
+    },
+    {
+      "name": "Angel One",
+      "symbol": "ANGELONE",
+      "token": "324"
+    },
+    {
+      "name": "Inox Wind",
+      "symbol": "INOXWIND",
+      "token": "7852"
+    },
+    {
+      "name": "RBL Bank",
+      "symbol": "RBLBANK",
+      "token": "18391"
+    },
+    {
+      "name": "CAMS",
+      "symbol": "CAMS",
+      "token": "342"
+    },
+    {
+      "name": "KFin Technologies",
+      "symbol": "KFINTECH",
+      "token": "13359"
+    },
+    {
+      "name": "PG Electroplast",
+      "symbol": "PGEL",
+      "token": "25358"
+    },
+    {
+      "name": "Crompton Greaves",
+      "symbol": "CROMPTON",
+      "token": "17094"
+    },
+    {
+      "name": "Indian Energy Exchange",
+      "symbol": "IEX",
+      "token": "220"
+    },
+    {
+      "name": "Sammaan Capital",
+      "symbol": "SAMMAANCAP",
+      "token": "30125"
+    }
+  ]
+}

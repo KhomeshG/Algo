@@ -1,0 +1,13 @@
+services:
+  api:
+    build: .
+    container_name: ninefifteen-api
+    env_file: [.env]
+    ports: ["3000:3000"]
+    restart: unless-stopped
+  exit-engine:
+    build: .
+    container_name: ninefifteen-exit-engine
+    command: ["node", "src/websocket/fyers-socket.js"]
+    env_file: [.env]
+    restart: unless-stopped

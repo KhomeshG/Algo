@@ -1,0 +1,31 @@
+{
+  "name": "ninefifteen-bot",
+  "version": "1.0.0",
+  "description": "Nine-Fifteen strategy only, single Shoonya account",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --max-old-space-size=4096 server.js",
+    "signals": "node src/workers/volume-surge-worker-websocket.js",
+    "oms": "node src/oms/oms-worker.js",
+    "exit-engine": "node src/websocket/fyers-socket.js",
+    "eod-report": "node src/workers/nine-fifteen-eod-report-worker.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.13.0",
+    "axios": "^1.18.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "fyers-api-v3": "^1.9.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.6.0",
+    "node-cron": "^4.6.0",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^9.0.5",
+    "otplib": "^12.0.1",
+    "ws": "^8.20.1",
+    "xlsx": "^0.18.5"
+  }
+}
